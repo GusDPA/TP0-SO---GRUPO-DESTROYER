@@ -1,0 +1,70 @@
+[INFO] 17:53:58:149 Servidor/(8330:8330): Servidor listo para recibir al clientefff
+[INFO] 17:54:11:887 Servidor/(8330:8330): Se conecto un cliente!
+[INFO] 17:54:11:887 Servidor/(8330:8330): Me llego el mensaje valor
+[ERROR] 17:55:41:690 Servidor/(8330:8330): el cliente se desconecto. Terminando servidor
+[INFO] 20:32:15:096 Servidor/(9341:9341): Servidor listo para recibir al clientefff
+[INFO] 20:34:17:139 Servidor/(9341:9341): Se conecto un cliente!
+[ERROR] 20:34:45:450 Servidor/(9341:9341): el cliente se desconecto. Terminando servidor
+[INFO] 20:35:17:200 Servidor/(9871:9871): Servidor listo para recibir al clientefff
+[INFO] 20:35:25:044 Servidor/(9871:9871): Se conecto un cliente!
+[INFO] 20:35:25:044 Servidor/(9871:9871): Me llego el mensaje valor
+[ERROR] 20:35:50:450 Servidor/(9871:9871): el cliente se desconecto. Terminando servidor
+[INFO] 20:37:08:416 Servidor/(10126:10126): Servidor listo para recibir al clientefff
+[INFO] 20:37:17:106 Servidor/(10126:10126): Se conecto un cliente!
+[ERROR] 20:37:46:217 Servidor/(10126:10126): el cliente se desconecto. Terminando servidor
+[INFO] 20:37:55:792 Servidor/(10366:10366): Servidor listo para recibir al clientefff
+[INFO] 20:38:03:923 Servidor/(10366:10366): Se conecto un cliente!
+[INFO] 20:38:03:923 Servidor/(10366:10366): Me llego el mensaje valor
+[INFO] 20:50:00:001 Servidor/(11261:11261): Servidor listo para recibir al clientefff
+[INFO] 20:51:02:461 Servidor/(11261:11261): Se conecto un cliente!
+[INFO] 20:51:02:461 Servidor/(11261:11261): Me llego el mensaje valor
+[ERROR] 20:51:34:143 Servidor/(11261:11261): el cliente se desconecto. Terminando servidor
+[INFO] 20:56:00:969 Servidor/(11813:11813): Servidor listo para recibir al clientefff
+[INFO] 20:56:10:753 Servidor/(11813:11813): Se conecto un cliente!
+[INFO] 20:56:10:753 Servidor/(11813:11813): Me llego el mensaje valor
+[INFO] 21:28:08:962 Servidor/(14398:14398): Servidor listo para recibir al clientefff
+[INFO] 21:29:05:050 Servidor/(14398:14398): Se conecto un cliente!
+[INFO] 21:29:05:050 Servidor/(14398:14398): Me llego el mensaje valor
+[ERROR] 21:29:47:044 Servidor/(14398:14398): el cliente se desconecto. Terminando servidor
+[INFO] 21:32:16:474 Servidor/(14837:14837): Servidor listo para recibir al clientefff
+[INFO] 21:32:25:444 Servidor/(14837:14837): Se conecto un cliente!
+[INFO] 21:32:25:444 Servidor/(14837:14837): Me llego el mensaje valor
+[ERROR] 21:38:16:403 Servidor/(14837:14837): el cliente se desconecto. Terminando servidor
+[INFO] 21:39:29:474 Servidor/(15263:15263): Servidor listo para recibir al clientefff
+[INFO] 21:39:38:341 Servidor/(15263:15263): Se conecto un cliente!
+[INFO] 21:39:38:342 Servidor/(15263:15263): Me llego el mensaje valor
+[ERROR] 21:40:01:205 Servidor/(15263:15263): el cliente se desconecto. Terminando servidor
+[INFO] 21:40:26:554 Servidor/(15576:15576): Servidor listo para recibir al clientefff
+[INFO] 21:40:35:251 Servidor/(15576:15576): Se conecto un cliente!
+[INFO] 21:40:35:252 Servidor/(15576:15576): Me llego el mensaje grupeteeeeeee
+[INFO] 22:44:41:288 Servidor/(2200:2200): Servidor listo para recibir al clientefff
+[INFO] 22:44:53:548 Servidor/(2200:2200): Se conecto un cliente!
+[INFO] 22:44:53:548 Servidor/(2200:2200): Me llego el mensaje grupeteeeeeee
+[INFO] 22:45:16:596 Servidor/(2200:2200): Me llegaron los siguientes valores:
+
+[INFO] 22:45:16:596 Servidor/(2200:2200): gus
+[INFO] 22:45:16:596 Servidor/(2200:2200): camilo
+[INFO] 22:45:16:596 Servidor/(2200:2200): lucas
+[INFO] 22:45:16:596 Servidor/(2200:2200): joaco
+[ERROR] 22:45:16:596 Servidor/(2200:2200): el cliente se desconecto. Terminando servidor
+[INFO] 22:49:31:338 Servidor/(2525:2525): Servidor listo para recibir al clientefff
+[INFO] 22:50:00:433 Servidor/(2525:2525): Se conecto un cliente!
+[INFO] 22:50:00:433 Servidor/(2525:2525): Me llego el mensaje grupeteeeeeee
+[INFO] 22:50:37:980 Servidor/(2525:2525): Me llegaron los siguientes valores:
+
+[INFO] 22:50:37:980 Servidor/(2525:2525): prueba 1
+[INFO] 22:50:37:980 Servidor/(2525:2525): prueba 2
+[INFO] 22:50:37:980 Servidor/(2525:2525): prueba 3
+[INFO] 22:50:37:980 Servidor/(2525:2525): prueba 4
+[ERROR] 22:50:50:778 Servidor/(2525:2525): el cliente se desconecto. Terminando servidor
+[INFO] 21:24:31:573 Servidor/(3392:3392): Servidor listo para recibir al clientefff
+[INFO] 21:29:41:894 Servidor/(3392:3392): Se conecto un cliente!
+[INFO] 21:29:41:894 Servidor/(3392:3392): Me llego el mensaje grupeteeeeeee
+[INFO] 21:34:13:015 Servidor/(3392:3392): Me llegaron los siguientes valores:
+
+[INFO] 21:34:13:015 Servidor/(3392:3392): ema
+[INFO] 21:34:13:015 Servidor/(3392:3392): henry
+[INFO] 21:34:13:015 Servidor/(3392:3392): gus
+[INFO] 21:34:13:015 Servidor/(3392:3392): lucas
+[INFO] 21:34:13:015 Servidor/(3392:3392): diana
+[ERROR] 21:34:13:015 Servidor/(3392:3392): el cliente se desconecto. Terminando servidor
